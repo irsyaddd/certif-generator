@@ -1,2 +1,2 @@
 # certif-generator
-generate sertif gausa satu satu
+This is just a tools to use on Generating number of certificate with user data from excel file.
